@@ -1,0 +1,348 @@
+<xml>
+  <buildpending>no</buildpending>
+  <status id="1">In-Design (Paid)</status>
+  <navigation type="simple">
+    <items>
+      <item icon="cover.png" text="tab1" />
+      <item icon="index.png" text="tab2" />
+      <item icon="content.png" text="tab3" />
+      <item icon="coffee.png" text="tab4" />
+    </items>
+  </navigation>
+  <targetplatform simulator="GalaxyNexus">Android</targetplatform>
+  <template price="249.99" defaultPageTransition="slide" id="4TabApp" scaleWebPagesToBaseResolution="false" topadtype="none" bottomadtype="none" globalNavigationBarStyle="2" globalNavigationBarColor="" globalLogo="" isUniversalApp="false" />
+  <prop id="appname" title="App Name">JEF2014</prop>
+  <prop id="tab1text" title="Tab1 Text">tab1</prop>
+  <prop id="tab1icon" title="Tab1 Icon">cover.png</prop>
+  <prop id="tab2text" title="Tab2 Text">tab2</prop>
+  <prop id="tab2icon" title="Tab2 Icon">index.png</prop>
+  <prop id="tab3text" title="Tab3 Text">tab3</prop>
+  <prop id="tab3icon" title="Tab3 Icon">content.png</prop>
+  <prop id="tab4text" title="Tab4 Text">tab4</prop>
+  <prop id="tab4icon" title="Tab4 Icon">coffee.png</prop>
+  <planname>Basic</planname>
+  <page id="index.html" type="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Home" logo="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" />
+  <description>The%20Jeddah%20Economic%20Forum%202014</description>
+  <androidapptype>0</androidapptype>
+  <androidcategory>4</androidcategory>
+  <androidpromovideo>
+  </androidpromovideo>
+  <androidC2DM enabled="true" />
+  <androidpermissions>
+    <permission name="android.permission.INTERNET" enabled="true" />
+    <permission name="android.permission.ACCESS_COARSE_LOCATION" enabled="true" />
+    <permission name="android.permission.ACCESS_FINE_LOCATION" enabled="true" />
+    <permission name="android.permission.WRITE_EXTERNAL_STORAGE" enabled="true" />
+    <permission name="android.permission.ACCESS_NETWORK_STATE" enabled="true" />
+    <permission name="android.permission.READ_PHONE_STATE" enabled="true" />
+    <permission name="android.permission.RECORD_AUDIO" enabled="true" />
+    <permission name="android.permission.CAMERA" enabled="true" />
+    <permission name="android.permission.VIBRATE" enabled="false" />
+    <permission name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" enabled="false" />
+    <permission name="android.permission.RECEIVE_SMS" enabled="false" />
+    <permission name="android.permission.RECORD_VIDEO" enabled="false" />
+    <permission name="android.permission.MODIFY_AUDIO_SETTINGS" enabled="false" />
+    <permission name="android.permission.READ_CONTACTS" enabled="false" />
+    <permission name="android.permission.WRITE_CONTACTS" enabled="false" />
+    <permission name="android.permission.GET_ACCOUNTS" enabled="false" />
+    <permission name="android.permission.BROADCAST_STICKY" enabled="false" />
+  </androidpermissions>
+  <androidversion>1.1</androidversion>
+  <androidversioncode>2</androidversioncode>
+  <androidbundlename>com.jef2014.kcorp</androidbundlename>
+  <androidshortappname>JEF2014</androidshortappname>
+  <syncenabled>true</syncenabled>
+  <rotationapp>false</rotationapp>
+  <info />
+  <file id="1.jpg" newsfile="yes" />
+  <file id="2.jpg" newsfile="yes" />
+  <file id="3.jpg" newsfile="yes" />
+  <file id="330x190-2.jpg" newsfile="yes" />
+  <file id="330x190-3.jpg" newsfile="yes" />
+  <file id="330x190.jpg" newsfile="yes" />
+  <file id="4.jpg" newsfile="yes" />
+  <file id="940x380-2.jpg" newsfile="yes" />
+  <file id="940x380-3.jpg" newsfile="yes" />
+  <file id="940x380.jpg" newsfile="yes" />
+  <file id="about-jef.html" newsfile="yes" />
+  <file id="AjaxLoader.gif" newsfile="yes" />
+  <file id="backgroundlogo.png" newsfile="yes" />
+  <file id="bigicon.png" newsfile="yes" />
+  <file id="blank.png" newsfile="yes" />
+  <file id="bmw.jpg" newsfile="yes" />
+  <file id="brochure-icon.png" newsfile="yes" />
+  <file id="cbpAnimatedHeader.js" newsfile="yes" />
+  <file id="cbpAnimatedHeader.min.js" newsfile="yes" />
+  <file id="chairman.jpg" newsfile="yes" />
+  <file id="chairmans-message.html" newsfile="yes" />
+  <file id="classie.js" newsfile="yes" />
+  <file id="coffee.png" newsfile="yes" />
+  <file id="components.css" newsfile="yes" />
+  <file id="contact.html" newsfile="yes" />
+  <file id="content.png" newsfile="yes" />
+  <file id="cover.png" newsfile="yes" />
+  <file id="day1.html" newsfile="yes" />
+  <file id="day2.html" newsfile="yes" />
+  <file id="default.css" newsfile="yes" />
+  <file id="Default.png" newsfile="yes" />
+  <file id="email-icon.png" newsfile="yes" />
+  <file id="ender.js" newsfile="yes" />
+  <file id="events-icon-hover.png" newsfile="yes" />
+  <file id="events-icon.png" newsfile="yes" />
+  <file id="fb-btn.png" newsfile="yes" />
+  <file id="grabbing.png" newsfile="yes" />
+  <file id="header.css" newsfile="yes" />
+  <file id="home-btn.png" newsfile="yes" />
+  <file id="icon-144.png" newsfile="yes" />
+  <file id="icon-36.png" newsfile="yes" />
+  <file id="icon-72.png" newsfile="yes" />
+  <file id="icon-96.png" newsfile="yes" />
+  <file id="icon.png" newsfile="yes" />
+  <file id="in-btn.png" newsfile="yes" />
+  <file id="index-temp.html" newsfile="yes" />
+  <file id="index.html" newsfile="yes" />
+  <file id="index.png" newsfile="yes" />
+  <file id="iscroll-lite.js" newsfile="yes" />
+  <file id="iscroll.js" newsfile="yes" />
+  <file id="jef-theme.jpg" newsfile="yes" />
+  <file id="jef2014.html" newsfile="yes" />
+  <file id="jquery.flexslider.js" newsfile="yes" />
+  <file id="logo.png" newsfile="yes" />
+  <file id="logo2.png" newsfile="yes" />
+  <file id="map-icon-hover.png" newsfile="yes" />
+  <file id="map-icon.png" newsfile="yes" />
+  <file id="menu-btn.png" newsfile="yes" />
+  <file id="menu.html" newsfile="yes" />
+  <file id="menu.png" newsfile="yes" />
+  <file id="modernizr.custom.js" newsfile="yes" />
+  <file id="modernizr.js" newsfile="yes" />
+  <file id="okaz.jpg" newsfile="yes" />
+  <file id="owl.carousel.css" newsfile="yes" />
+  <file id="owl.carousel.js" newsfile="yes" />
+  <file id="owl.carousel.min.js" newsfile="yes" />
+  <file id="owl.theme.css" newsfile="yes" />
+  <file id="prev.png" newsfile="yes" />
+  <file id="program.html" newsfile="yes" />
+  <file id="pull-icon@2x.png" newsfile="yes" />
+  <file id="pull-to-refresh.css" newsfile="yes" />
+  <file id="yt-btn.png" newsfile="yes" />
+  <file id="wk-btn.png" newsfile="yes" />
+  <file id="tw-btn.png" newsfile="yes" />
+  <file id="template.qbiki" newsfile="yes" />
+  <file id="telephone-icon-hover.png" newsfile="yes" />
+  <file id="telephone-icon.png" newsfile="yes" />
+  <file id="tab4.html" newsfile="yes" />
+  <file id="tab3.html" newsfile="yes" />
+  <file id="tab2.html" newsfile="yes" />
+  <file id="tab1.html" newsfile="yes" />
+  <file id="style.css" newsfile="yes" />
+  <file id="responsee.js" newsfile="yes" />
+  <file id="responsee.css" newsfile="yes" />
+  <file id="pull-to-refresh.js" newsfile="yes" />
+  <hostedresources />
+  <page id="tab1.html" type="html" title="" logo="" transition="none" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" />
+  <page id="tab2.html" type="html" title="" logo="" transition="none" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" />
+  <page id="tab3.html" type="html" title="" logo="" transition="none" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" />
+  <page id="tab4.html" type="html" title="" logo="" transition="none" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" shownavbar="yes" openlinksonsametabview="no" zoomEnabled="false" />
+  <page id="about-jef.html" type="html" title="About JEF" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="chairmans-message.html" type="html" title="Chairman's Message" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="contact.html" type="html" title="Contact Us" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="day1.html" type="html" title="Day 1" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="day2.html" type="html" title="Day 2" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="index-temp.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="jef2014.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="menu.html" type="html" title="Main Menu" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="program.html" type="html" title="Opening Ceremony" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="location-map.html" type="map" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="Location Map" gmapzoom="1100" logo="" enterrevmob="" hidetabbaratpush="no">
+    <locations>
+      <location>
+        <name>Jeddah Hilton</name>
+        <latitude>21.604859</latitude>
+        <longitude>39.108603</longitude>
+        <imageurl>
+        </imageurl>
+        <ldescription>JEF 2014 Will be held</ldescription>
+        <ltarget>
+        </ltarget>
+      </location>
+    </locations>
+  </page>
+  <page id="location-finder.html" type="locationfinder" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" sourcexml="location-finder.html.xml" sourcetype="local" resultType="list" showLocationPicker="yes" locationsLimit="500" headerimage="logo2.png" submitbutton="Find" resultUnits="km" title="" logo="" enterrevmob="" hidetabbaratpush="no">
+    <field id="field1" label="Name:" type="text" required="yes" />
+    <field id="field2" label="Type:" type="list" required="yes">
+      <listitem value="any" />
+      <listitem value="" />
+    </field>
+    <field id="field3" label="Near:" type="location" required="yes" />
+    <field id="field4" label="Distance (miles):" type="list" required="yes">
+      <listitem value="10" />
+      <listitem value="any" />
+    </field>
+  </page>
+  <page id="location-nearby.html" type="nearbylocations" transition="NONE" slidepageid="none" slidetransition="" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" googleplaceapikey="AIzaSyDlGHCG_tD3v8HN3O5pNWDbF7o8BKhFEd0" title="" logo="" enterrevmob="" hidetabbaratpush="no" />
+  <file id="header.png" newsfile="yes" />
+  <file id="iPadheader.png" newsfile="yes" />
+  <file id="location-finder.html" newsfile="yes" />
+  <file id="location-finder.html.xml" newsfile="yes" />
+  <file id="location-nearby.html" newsfile="yes" />
+  <file id="location-map.html" newsfile="yes" />
+  <file id="map.html" newsfile="yes" />
+  <page id="calendar.html" type="calendar" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" categories="JEF 2014" categorycolors="#003366" title="" logo="" enterrevmob="" />
+  <file id="calendar.html.json" newsfile="yes" />
+  <file id="calendar.html" newsfile="yes" />
+  <quizrandomize nquestions="">false</quizrandomize>
+  <rateapp appleid="" rateatlaunch="no" rateatrelaunch="no" message="" cancelmessage="" remindmessage="" actionmessage="" />
+  <admobpublisher id="" />
+  <doubleclickpublisher unitId="" />
+  <pollfish apiKey="" position="na" padding="0" />
+  <revmobappid id="" />
+  <bumpapp apikey="" />
+  <googleanalyticsid id="" />
+  <localizablelanguage value="en" />
+  <sentpageid id="" />
+  <paypalappid id="" />
+  <fbapp apikey="" secret="" />
+  <androidAppLicensing enabled="false" publicKey="" />
+  <apkExpansionFiles enabled="false" />
+  <androidInAppBilling enabled="false" />
+  <android installLocation="auto" />
+  <pdftron licenseKey="" />
+  <sharepointclient url="" username="" password="" />
+  <appstorelink>
+  </appstorelink>
+  <scads refreshRate="30" />
+  <googleMaps androidApiV2Key="AIzaSyB6M_tMQ3E9H345M-NnWsVhLd_m-l_7Xak" />
+  <webapp statusBarStyle="default" iconsStyle="precomposed" offlineModeEnabled="false" inAppLinks="false" />
+  <file id="tw.html" newsfile="yes" />
+  <file id="wk.html" newsfile="yes" />
+  <file id="yt.html" newsfile="yes" />
+  <file id="fb.html" newsfile="yes" />
+  <page id="search1.html" type="search" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" status="Done" title="" logo="" enterrevmob="" hidetabbaratpush="no" />
+  <file id="rees.jpg" newsfile="yes" />
+  <file id="prince-mishaal.jpg" newsfile="yes" />
+  <file id="abdulmehse.jpg" newsfile="yes" />
+  <file id="al-banawi.jpg" newsfile="yes" />
+  <file id="al-moiquel.jpg" newsfile="yes" />
+  <file id="al-rabiah.jpg" newsfile="yes" />
+  <file id="al-shaya.jpg" newsfile="yes" />
+  <file id="al-tayer.jpg" newsfile="yes" />
+  <file id="alessa.jpg" newsfile="yes" />
+  <file id="almbaid.jpg" newsfile="yes" />
+  <file id="andrew.jpg" newsfile="yes" />
+  <file id="burton.jpg" newsfile="yes" />
+  <file id="dahlan.jpg" newsfile="yes" />
+  <file id="fahey.jpg" newsfile="yes" />
+  <file id="fareed.jpg" newsfile="yes" />
+  <file id="hrh-sultan.jpg" newsfile="yes" />
+  <file id="hughes.jpg" newsfile="yes" />
+  <file id="in.html" newsfile="yes" />
+  <file id="indexpage.plist" newsfile="yes" />
+  <file id="jasser.jpg" newsfile="yes" />
+  <file id="klink.jpg" newsfile="yes" />
+  <file id="lama.jpg" newsfile="yes" />
+  <file id="liddle.jpg" newsfile="yes" />
+  <file id="lukman.jpg" newsfile="yes" />
+  <file id="martin.jpg" newsfile="yes" />
+  <file id="otty.jpg" newsfile="yes" />
+  <file id="schipper.jpg" newsfile="yes" />
+  <file id="search1.html" newsfile="yes" />
+  <file id="sentilhes.jpg" newsfile="yes" />
+  <file id="singh.jpg" newsfile="yes" />
+  <file id="smadja.jpg" newsfile="yes" />
+  <file id="speakers.html" newsfile="yes" />
+  <file id="sumaira.jpg" newsfile="yes" />
+  <file id="tiong.jpg" newsfile="yes" />
+  <file id="tony-fern.jpg" newsfile="yes" />
+  <file id="sponsors.html" newsfile="yes" />
+  <file id="eye-of-riyadh.jpg" newsfile="yes" />
+  <file id="itc.jpg" newsfile="yes" />
+  <file id="sctamain.jpg" newsfile="yes" />
+  <file id="tby.jpg" newsfile="yes" />
+  <file id="uturn.jpg" newsfile="yes" />
+  <file id="aem.jpg" newsfile="yes" />
+  <file id="ahlam.jpg" newsfile="yes" />
+  <file id="al-madina.jpg" newsfile="yes" />
+  <file id="albiladdaily.jpg" newsfile="yes" />
+  <file id="ey.jpg" newsfile="yes" />
+  <file id="jeddahmain.jpg" newsfile="yes" />
+  <file id="knowlton.jpg" newsfile="yes" />
+  <file id="ncb.jpg" newsfile="yes" />
+  <file id="ogb.jpg" newsfile="yes" />
+  <file id="partners.html" newsfile="yes" />
+  <file id="pw4it.jpg" newsfile="yes" />
+  <file id="schipper.html" newsfile="yes" />
+  <file id="sentilhes.html" newsfile="yes" />
+  <file id="singh.html" newsfile="yes" />
+  <file id="smadja.html" newsfile="yes" />
+  <file id="sumaira.html" newsfile="yes" />
+  <file id="tiong.html" newsfile="yes" />
+  <file id="tony-fern.html" newsfile="yes" />
+  <file id="abdulmehse.html" newsfile="yes" />
+  <file id="al-banawi.html" newsfile="yes" />
+  <file id="al-moiquel.html" newsfile="yes" />
+  <file id="al-shaya.html" newsfile="yes" />
+  <file id="al-rabiah.html" newsfile="yes" />
+  <file id="al-tayer.html" newsfile="yes" />
+  <file id="alessa.html" newsfile="yes" />
+  <file id="almbaid.html" newsfile="yes" />
+  <file id="andrew.html" newsfile="yes" />
+  <file id="burton.html" newsfile="yes" />
+  <file id="dahlan.html" newsfile="yes" />
+  <file id="fahey.html" newsfile="yes" />
+  <file id="fareed.html" newsfile="yes" />
+  <file id="hrh-sultan.html" newsfile="yes" />
+  <file id="hughes.html" newsfile="yes" />
+  <file id="jasser.html" newsfile="yes" />
+  <file id="klink.html" newsfile="yes" />
+  <file id="kamel.html" newsfile="yes" />
+  <file id="lama.html" newsfile="yes" />
+  <file id="liddle.html" newsfile="yes" />
+  <file id="lukman.html" newsfile="yes" />
+  <file id="martin.html" newsfile="yes" />
+  <file id="otty.html" newsfile="yes" />
+  <file id="prince-mishaal.html" newsfile="yes" />
+  <file id="rees.html" newsfile="yes" />
+  <page id="abdulmehse.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="al-banawi.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="al-moiquel.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="al-rabiah.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="al-shaya.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="al-tayer.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="alessa.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="almbaid.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="andrew.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="burton.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="dahlan.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="fahey.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="fareed.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="fb.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="hrh-sultan.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="hughes.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="in.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="jasser.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="kamel.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="klink.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="lama.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="liddle.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="lukman.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="map.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="martin.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="otty.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="partners.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="prince-mishaal.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="rees.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="schipper.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="sentilhes.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="singh.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="smadja.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="speakers.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="sponsors.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="sumaira.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="tiong.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="tony-fern.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="tw.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <page id="wk.html" type="html" title="" logo="" transition="NONE" slidepageid="none" slidetransition="slide" hasreviews="no" hassend="yes" hasfields="no" topadtype="inherited" bottomadtype="inherited" dynamicdata="false" jsonurl="" enterrevmob="" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" />
+  <file id="wasilah.jpg" newsfile="yes" />
+  <file id="aramco.jpg" newsfile="yes" />
+  <file id="d1.jpg" newsfile="yes" />
+</xml>
