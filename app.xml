@@ -9,7 +9,9 @@
       <item icon="coffee.png" text="tab4" />
     </items>
   </navigation>
+  
   <targetplatform simulator="GalaxyNexus">Android</targetplatform>
+  <gap:splash src="splash.png" gap:platform="blackberry" />
   <template price="249.99" defaultPageTransition="slide" id="4TabApp" scaleWebPagesToBaseResolution="false" topadtype="none" bottomadtype="none" globalNavigationBarStyle="2" globalNavigationBarColor="" globalLogo="" isUniversalApp="false" />
   <prop id="appname" title="App Name">JEF2014</prop>
   <prop id="tab1text" title="Tab1 Text">tab1</prop>
