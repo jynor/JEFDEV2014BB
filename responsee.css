@@ -1021,32 +1021,32 @@ box-shadow: 1px 12px 15px -15px #000000;
 	height: 23px;
 }
 .program {
-	background: url('events-icon.png') no-repeat;
+	background: url('eventsicon.png') no-repeat;
 	background-size: 80% 80%;
 	background-position:center;
 }
 .map {
-	background: url('map-icon.png') no-repeat;
+	background: url('mapicon.png') no-repeat;
 	background-size:  80% 80%;
 	background-position:center;
 }
 .contact {
-	background: url('telephone-icon.png') no-repeat;
+	background: url('telephoneicon.png') no-repeat;
 	background-size:  80% 80%;
 	background-position:center;
 }
 .program:hover {
-	background: url('events-icon-hover.png') no-repeat;
+	background: url('eventsiconhover.png') no-repeat;
 	background-size: 80% 80%;
 	background-position:center;
 }
 .map:hover {
-	background: url('map-icon-hover.png') no-repeat;
+	background: url('mapiconhover.png') no-repeat;
 	background-size:  80% 80%;
 	background-position:center;
 }
 .contact:hover {
-	background: url('telephone-icon-hover.png') no-repeat;
+	background: url('telephoneiconhover.png') no-repeat;
 	background-size:  80% 80%;
 	background-position:center;
 }
